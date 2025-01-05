@@ -20,13 +20,13 @@ ScrollMe is a decentralized, secure, and user-friendly web-based wallet that all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/scrollme-wallet.git
+   git clone https://github.com/saurabhbakolia/scrollme-web-wallet.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd scrollme-wallet
+   cd scrollme-web-wallet
    ```
 
 3. Install dependencies:
@@ -43,7 +43,7 @@ ScrollMe is a decentralized, secure, and user-friendly web-based wallet that all
 
 5. Open your browser and visit:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ---
